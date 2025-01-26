@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="2">
   <diagram name="Übersicht" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
-    <mxGraphModel dx="5036" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,8 +215,9 @@
             <mxRectangle x="330" y="472.5" width="140" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MzpsNFHrvF4brpoUTHrL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="_C5BNkKWTBEPGsjmn6NA-22" source="MzpsNFHrvF4brpoUTHrL-42" target="P-Y-znH8DLPPJtFt1mMd-11">
+        <mxCell id="MzpsNFHrvF4brpoUTHrL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="_C5BNkKWTBEPGsjmn6NA-22" source="MzpsNFHrvF4brpoUTHrL-42">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="631" y="464" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="464" />
               <mxPoint x="631" y="464" />
